@@ -1,4 +1,4 @@
-# <span><img src="./counter.png" alt=counter style="height: 1em; vertical-align: middle;"></span>  Counter App
+# <span><img src="./counter.png" alt=counter-app style="height: 1em; vertical-align: middle;"></span>  Counter App
 
 It is a responsive counter app created using javascript with functions of addition/substraction/reset.
 
